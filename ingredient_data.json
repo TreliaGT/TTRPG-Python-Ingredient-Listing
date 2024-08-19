@@ -1,0 +1,49 @@
+{
+    "ingredients": [
+        {
+            "name": "Dragon Fruit",
+            "rare" : "rare",
+            "effect": "Increases health",
+            "type": "Fruit",
+            "taste": "Sweet",
+            "description": "A tropical fruit with vibrant color.",
+            "environment": "Forest"
+        },
+        {
+            "name": "Fire Blossom",
+            "rare" : "common",
+            "effect": "+1 to attack rolls.",
+            "type": "Herb",
+            "taste": "Spicy with a hint of sweetness, like a chili with a touch of honey.",
+            "description": "Found in Dungeons",
+            "environment": "Dungeon"
+        },
+        {
+            "name": "Twilight Herb",
+            "rare" : "rare",
+            "effect": " Restores 1 spell slot.",
+            "type": "Herb",
+            "taste": "Mystical and complex, like a blend of sweet herbs and incense.",
+            "description": "A green Plant with violet hightlights on the leaves. ",
+            "environment": "Forest"
+        },
+        {
+            "name": "Golden Honeycomb",
+            "rare" : "Uncommon",
+            "effect": "Restores 5 HP.",
+            "type": "Other",
+            "taste": "Rich and sweet, like the purest honey, with a lingering floral note.",
+            "description": "Looks like simple honeycomb but found in a bee dungeon",
+            "environment": "Dungeon"
+        },
+        {
+            "name": "Ironbark Nut",
+            "rare" : "Uncommon",
+            "effect": "Increases AC by +1 for 10 minutes.",
+            "type": "Nut",
+            "taste": "Nutty and robust, with a tough, satisfying crunch.",
+            "description": "Found in rare trees in the desert. ",
+            "environment": "Desert"
+        }
+    ]
+}
